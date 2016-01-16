@@ -1,3 +1,5 @@
+Ghost Blog 副本
+
 # Ghost for OpenShift
 
 Ghost is a free, open, simple blogging platform that is available to anyone who wants to use it. 
